@@ -1,4 +1,4 @@
-furry-ironman
+Android Keyword Library
 =============
 
 # RF uiautomator #
@@ -56,7 +56,7 @@ Possible result：
 	 u'packageName': u'com.android.launcher',
 	 u'selected': False,
 	 u'enabled': True,
-	 u'bounds': 
+	 u'bounds':
 	           {
 	            u'top': 231,
 	            u'left': 0,
@@ -78,3 +78,7 @@ Possible result：
 	                   u'bottom': 1776
 	                  }
 	}
+
+# Acknowledgement
+
+This library was supported partially by the Ministry of Science and Technology, Taiwan, under contract number MOST 104-2221-E-027-007 -
